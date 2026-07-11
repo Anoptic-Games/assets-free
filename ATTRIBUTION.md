@@ -1,7 +1,7 @@
 # Attribution
 
 This repository redistributes third-party assets under their original licenses.
-Both assets currently here are licensed **CC BY 4.0**, matching the repository's
+Every asset currently here is licensed **CC BY 4.0**, matching the repository's
 `LICENSE`. That license requires credit be retained wherever the asset is
 redistributed or used in a derived work:
 <https://creativecommons.org/licenses/by/4.0/>
@@ -36,3 +36,18 @@ Note: unlike the asset above, these five files carry **no embedded license
 metadata** — they record only `Blender v2.82` / `Khronos glTF Blender I/O` as
 their generator. The attribution here is supplied by the repository owner, not
 read from the files. Verify against your original source before relying on it.
+
+## sponza
+
+Files: everything under `sponza/` (the `2.0/Sponza/glTF/` model and its textures)
+
+> © Crytek. Original Sponza model by Frank Meinl. License: CC BY 4.0
+
+Redistributed via the Khronos glTF Sample Assets collection
+(<https://github.com/KhronosGroup/glTF-Sample-Assets>), whose directory layout
+(`2.0/Sponza/glTF/`) is preserved here.
+
+Note: `Sponza.gltf` carries **no embedded license metadata** — its `asset` block
+records only `glTF-Transform` as generator. The attribution here is supplied by
+the repository owner, not read from the files. Verify against your original
+source before relying on it.
