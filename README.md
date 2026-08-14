@@ -12,5 +12,5 @@ license, not a courtesy.
 Per-asset credits are in [`ATTRIBUTION.md`](ATTRIBUTION.md). Keep them with the
 files if you redistribute them.
 
-None of the assets currently in this repository are original Anoptic works; they
-are third-party assets redistributed under their original CC BY 4.0 terms.
+The third-party assets retain their original CC BY 4.0 terms. `cursed.png` is
+an original Anoptic Games texture, also released under CC BY 4.0.

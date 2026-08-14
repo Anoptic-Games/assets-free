@@ -25,17 +25,7 @@
         },
         {
             "mesh" : 1,
-            "name" : "mesh_all2_Texture2_0",
-            "rotation" : [
-                0.7071068286895752,
-                0,
-                0,
-                0.7071068286895752
-            ]
-        },
-        {
-            "mesh" : 2,
-            "name" : "mesh_all3_Texture3_0",
+            "name" : "mesh_all2_Cursed_0",
             "rotation" : [
                 0.7071068286895752,
                 0,
@@ -58,21 +48,10 @@
         },
         {
             "doubleSided" : true,
-            "name" : "Texture2",
+            "name" : "Cursed",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 1
-                },
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Texture3",
-            "pbrMetallicRoughness" : {
-                "baseColorTexture" : {
-                    "index" : 2
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -95,7 +74,7 @@
             ]
         },
         {
-            "name" : "mesh_all2_Texture2_0",
+            "name" : "mesh_all2_Cursed_0",
             "primitives" : [
                 {
                     "attributes" : {
@@ -105,20 +84,6 @@
                     },
                     "indices" : 3,
                     "material" : 1
-                }
-            ]
-        },
-        {
-            "name" : "mesh_all3_Texture3_0",
-            "primitives" : [
-                {
-                    "attributes" : {
-                        "POSITION" : 0,
-                        "NORMAL" : 1,
-                        "TEXCOORD_0" : 2
-                    },
-                    "indices" : 3,
-                    "material" : 2
                 }
             ]
         }
@@ -131,10 +96,6 @@
         {
             "sampler" : 0,
             "source" : 1
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
         }
     ],
     "images" : [
@@ -142,11 +103,6 @@
             "mimeType" : "image/png",
             "name" : "viking_room",
             "uri" : "viking_room.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "hat_loli",
-            "uri" : "hat_loli.png"
         },
         {
             "mimeType" : "image/png",

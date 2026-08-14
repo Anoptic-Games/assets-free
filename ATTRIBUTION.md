@@ -37,6 +37,14 @@ metadata** — they record only `Blender v2.82` / `Khronos glTF Blender I/O` as
 their generator. The attribution here is supplied by the repository owner, not
 read from the files. Verify against your original source before relying on it.
 
+## cursed
+
+File: `cursed.png`
+
+> © 2026 Anoptic Games. License: CC BY 4.0 International
+
+Original Anoptic Games texture variant used by `viking_room.gltf`.
+
 ## sponza
 
 Files: everything under `sponza/` (the `2.0/Sponza/glTF/` model and its textures)
